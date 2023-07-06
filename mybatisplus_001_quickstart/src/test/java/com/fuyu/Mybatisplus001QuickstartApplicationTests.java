@@ -15,6 +15,7 @@ class Mybatisplus001QuickstartApplicationTests {
     @Test
     void testGetAll() {
         List<User> users = userDao.selectList(null);
+
         System.out.println(users);
     }
 
