@@ -9,17 +9,16 @@ spring:
   main:
     banner-mode: off
 
+
 # mp日志
-#mybatis-plus:
-#  configuration:
-#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
-#  global-config:
-#    banner: false
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
   global-config:
     banner: false
+
+
+
 
 
 
