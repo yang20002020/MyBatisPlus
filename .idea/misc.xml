@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/mybatisplus_001_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/mybatisplus_002_crud/pom.xml" />
         <option value="$PROJECT_DIR$/mybatisplus_003_lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus_004_selectpage/pom.xml" />
       </list>
     </option>
   </component>
