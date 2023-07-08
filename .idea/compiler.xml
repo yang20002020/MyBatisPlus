@@ -10,6 +10,7 @@
         <module name="mybatisplus_004_selectpage" />
         <module name="mybatisplus_007_dql" />
         <module name="mybatisplus_006_dql" />
+        <module name="mybatisplus_008_dql" />
         <module name="mybatisplus_002_crud" />
         <module name="mybatisplus_001_quickstart" />
         <module name="mybatisplus_003_lombok" />
@@ -24,6 +25,7 @@
       <module name="mybatisplus_005_dql" target="1.8" />
       <module name="mybatisplus_006_dql" target="1.8" />
       <module name="mybatisplus_007_dql" target="1.8" />
+      <module name="mybatisplus_008_dql" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,6 +37,7 @@
       <module name="mybatisplus_005_dql" options="-parameters" />
       <module name="mybatisplus_006_dql" options="-parameters" />
       <module name="mybatisplus_007_dql" options="-parameters" />
+      <module name="mybatisplus_008_dql" options="-parameters" />
     </option>
   </component>
 </project>

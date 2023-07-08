@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/mybatisplus_005_dql/mybatisplus_005_dql.iml" filepath="$PROJECT_DIR$/mybatisplus_005_dql/mybatisplus_005_dql.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisplus_006_dql/mybatisplus_006_dql.iml" filepath="$PROJECT_DIR$/mybatisplus_006_dql/mybatisplus_006_dql.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisplus_007_dql/mybatisplus_007_dql.iml" filepath="$PROJECT_DIR$/mybatisplus_007_dql/mybatisplus_007_dql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_008_dql/mybatisplus_008_dql.iml" filepath="$PROJECT_DIR$/mybatisplus_008_dql/mybatisplus_008_dql.iml" />
     </modules>
   </component>
 </project>
