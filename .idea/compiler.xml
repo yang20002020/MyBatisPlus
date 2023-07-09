@@ -17,6 +17,7 @@
         <module name="mybatisplus_005_dql" />
         <module name="mybatisplus_016_dml" />
         <module name="mybatisplus_012_dml" />
+        <module name="mybatisplus_018_generator" />
         <module name="mybatisplus_017_dml" />
         <module name="mybatisplus_006_dql" />
         <module name="mybatisplus_008_dql" />
@@ -45,6 +46,7 @@
       <module name="mybatisplus_016_dml" target="1.8" />
       <module name="mybatisplus_017_dml" target="1.8" />
       <module name="mybatisplus_018_dml" target="1.8" />
+      <module name="mybatisplus_018_generator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -67,6 +69,7 @@
       <module name="mybatisplus_016_dml" options="-parameters" />
       <module name="mybatisplus_017_dml" options="-parameters" />
       <module name="mybatisplus_018_dml" options="-parameters" />
+      <module name="mybatisplus_018_generator" options="-parameters" />
     </option>
   </component>
 </project>
