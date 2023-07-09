@@ -21,6 +21,7 @@
         <module name="mybatisplus_002_crud" />
         <module name="mybatisplus_010_dml" />
         <module name="mybatisplus_003_lombok" />
+        <module name="mybatisplus_015_dml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -38,6 +39,7 @@
       <module name="mybatisplus_012_dml" target="1.8" />
       <module name="mybatisplus_013_dml" target="1.8" />
       <module name="mybatisplus_014_dml" target="1.8" />
+      <module name="mybatisplus_015_dml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -56,6 +58,7 @@
       <module name="mybatisplus_012_dml" options="-parameters" />
       <module name="mybatisplus_013_dml" options="-parameters" />
       <module name="mybatisplus_014_dml" options="-parameters" />
+      <module name="mybatisplus_015_dml" options="-parameters" />
     </option>
   </component>
 </project>
