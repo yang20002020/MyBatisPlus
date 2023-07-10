@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/mybatisplus_016_dml/mybatisplus_016_dml.iml" filepath="$PROJECT_DIR$/mybatisplus_016_dml/mybatisplus_016_dml.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisplus_017_dml/mybatisplus_017_dml.iml" filepath="$PROJECT_DIR$/mybatisplus_017_dml/mybatisplus_017_dml.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisplus_018_generator/mybatisplus_018_generator.iml" filepath="$PROJECT_DIR$/mybatisplus_018_generator/mybatisplus_018_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_019_generator/mybatisplus_019_generator.iml" filepath="$PROJECT_DIR$/mybatisplus_019_generator/mybatisplus_019_generator.iml" />
     </modules>
   </component>
 </project>
